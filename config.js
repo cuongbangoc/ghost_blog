@@ -12,7 +12,7 @@ if (process.env.OPENSHIFT_MYSQL_DB_HOST != undefined) {
         // Configure your URL and mail settings here
         production: {
             //url: 'http://'+process.env.OPENSHIFT_APP_DNS,
-            url: 'http://cuongba.cf',
+            url: 'http://cuongba.com',
             mail: {},
             database: {
                 client: 'mysql',
